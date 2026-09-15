@@ -6,7 +6,8 @@ export const profile = {
   phone: '+91 96777 98131',
   github: 'https://github.com/NishanthAruchamy0927',
   linkedin: 'https://linkedin.com/in/nishanth-a-s-aa7736356',
-  resumeUrl: '/resume.pdf', // replace with your final resume file in /public
+  resumeFullStackUrl: '/resume-fullstack.pdf',
+resumeDataAnalyticsUrl: '/resume-data-analytics.pdf', // replace with your final resume file in /public
 }
 
 export const facts = [
